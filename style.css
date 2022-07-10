@@ -14,12 +14,18 @@ body {
 }
 
 .container {
+    padding: 20px;
+}
+
+.container {
     border: 2px solid lightgray;
     border-radius: 3px;
     box-shadow: 0 4px 6px lightgray;
     width: 400px;
-    padding: 20px;
+
 }
+
+
 
 .subtitle {
     color: #606770;
